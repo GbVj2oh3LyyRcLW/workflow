@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "My web workflow with npm, sass, and gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GbVj2oh3LyyRcLW/workflow.git"
+  },
+  "keywords": [
+    "sass",
+    "npm",
+    "git",
+    "gulp"
+  ],
+  "author": "Pablo Faja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GbVj2oh3LyyRcLW/workflow/issues"
+  },
+  "homepage": "https://github.com/GbVj2oh3LyyRcLW/workflow#readme"
+}
