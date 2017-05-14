@@ -1,7 +1,18 @@
 $black: #000000;
 $white: #ffffff;
+$center: center;
 
 body {
     background-color: $black;
     color: $white;
+}
+h1,
+h2,
+h3,
+img {
+    text-align: $center;
+}
+
+img {
+    border-radius: 50%;
 }
